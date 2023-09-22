@@ -7,7 +7,8 @@
 </head>
 <body>
     
-    <h1>test</h1>
+    <h1>Hello World</h1>
+    <h2>{{$nome}}</h2>
 
 </body>
 </html>
